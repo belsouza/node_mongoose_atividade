@@ -1,0 +1,10 @@
+Criar uma rota na API para "/posts"
+
+Criar um schema usando Mongoose com os campos
+
+title(String)
+content(String)
+autor(String)
+publishDate(Date)
+
+Implementar os endpoints para cada operação no banco de dados (CRUD)
